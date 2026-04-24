@@ -254,7 +254,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Datta Sai Charan**
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mamidala-datta-sai-charan-873a1a3b4/)
 - 🐙 [GitHub](https://github.com/DATTASAICHARAN)
 
 ---
